@@ -24,7 +24,7 @@ def quickSort(array, low, high):
 # iterating till the range
 import random
 
-x = random.randint(100000, size=int(input("please input the number")))
+x = random.randint(100, size =int(input("please input the number")))
 
 print(x)
 
