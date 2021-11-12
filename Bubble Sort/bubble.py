@@ -22,3 +22,4 @@ bubbleSort(x)
 print ("Sorted array is:")
 for i in range(len(x)):
 	print ("% d" % x[i]),
+#This shows the sorted array 
