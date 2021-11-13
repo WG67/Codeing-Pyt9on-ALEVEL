@@ -1,3 +1,4 @@
+#This Merge sort program which is apart of the sorting algorithims that i have been learing about
 def merge(listi, list2):
   #Function to merge two lists into a new list
   newlist = []
